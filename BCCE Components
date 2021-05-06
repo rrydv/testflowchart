@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T18:42:43.176Z" agent="5.0 (Windows)" etag="7pUQ647ZyV3Dut-gEGEw" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T19:15:24.776Z" agent="5.0 (Windows)" etag="VwYMKDy8lUKZAOXG_eNJ" version="14.6.10" type="github">
   <diagram id="X43XvevgHIlsFinB6fLN" name="Page-1">
     <mxGraphModel dx="982" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -179,8 +179,8 @@
         <mxCell id="16eQvM4vSEkvA5kd1Ku--36" value="Proportion of &lt;br&gt;Alpine Area" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="295" y="129" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="16eQvM4vSEkvA5kd1Ku--45" value="High Hazard Component Count" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="215" y="389" width="120" height="60" as="geometry" />
+        <mxCell id="16eQvM4vSEkvA5kd1Ku--45" value="High Hazard Count" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="213" y="399" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
