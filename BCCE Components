@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T18:20:12.133Z" agent="5.0 (Windows)" etag="ysDb-ICm7WG_5pYN4dWY" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T18:23:06.740Z" agent="5.0 (Windows)" etag="DhWfZpYk0hBMJn8zIg3-" version="14.6.10" type="github">
   <diagram id="X43XvevgHIlsFinB6fLN" name="Page-1">
     <mxGraphModel dx="1520" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -181,6 +181,15 @@
         </mxCell>
         <mxCell id="16eQvM4vSEkvA5kd1Ku--45" value="High Component Class Count" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16eQvM4vSEkvA5kd1Ku--51" value="Indicator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16eQvM4vSEkvA5kd1Ku--52" value="Value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16eQvM4vSEkvA5kd1Ku--53" value="Sub-indicator" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
